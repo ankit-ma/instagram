@@ -1,0 +1,9 @@
+.privacy-main {
+  background-color: rgba(161, 161, 244, 0.169);
+  height: 100vh;
+  overflow: scroll;
+}
+.privacy-main p,
+li {
+  color: rgb(97, 94, 94);
+}

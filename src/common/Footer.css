@@ -1,0 +1,13 @@
+.footer {
+  flex-shrink: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 10vh;
+}
+.footer a {
+  padding: 20px;
+}
+.footer a:hover {
+  color: rgb(233, 11, 122);
+}
